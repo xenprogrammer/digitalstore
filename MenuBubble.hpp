@@ -14,6 +14,6 @@ namespace customProjects
 	class MenuBubble : public MultiWidgets::ImageWidget
 	{
 	public:
-		MenuBubble(float x, float y);
+		MenuBubble(float x1, float y1);
 	};
 }
